@@ -1480,7 +1480,7 @@ form textarea {
 /* tanker form component ends here */
 
 #service_breadcrumb {
-    top: 15.10%;
+    top: 14.50%;
     background-color: #efefefad !important;
 }
 
@@ -2839,7 +2839,7 @@ button:hover span i {
 
 .linking {
     position: absolute;
-    top: 17.60%;
+    top: 16.92%;
     background-color: #efefefad;
     width: 100%;
     padding: 5px 15px 5px 15px;
@@ -2954,6 +2954,12 @@ button:hover span i {
 
     .cable-banner {
         top: 55%;
+    }
+    .linking {
+        top: 12.62%;
+    }
+    #service_breadcrumb {
+        top: 10.85%;
     }
 }
 
