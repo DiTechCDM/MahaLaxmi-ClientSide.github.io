@@ -577,6 +577,11 @@ button:hover span i {
     border-bottom-right-radius: 20px;
 }
 
+#Brand_Logo{
+    width: 100%;
+    margin-left: -1rem;
+}
+
 @media screen and (max-width: 1080px) {
     #header .container-fluid {
         display: block;
