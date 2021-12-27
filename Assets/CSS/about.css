@@ -95,7 +95,7 @@
 
 .linking {
     position: absolute;
-    top: 17.60%;
+    top: 16.92%;
     background-color: #efefefad;
     width: 100%;
     padding: 5px 15px 5px 15px;
@@ -223,6 +223,10 @@ button:hover span i {
 
     .about-banner {
         top: 55%;
+    }
+
+    .linking {
+        top: 12.62%;
     }
 }
 
